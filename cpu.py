@@ -1,6 +1,8 @@
 from memory import Memory
 from cache import Cache
 
+# Cache class not used
+
 class CPU:
 
     def __init__(self):
